@@ -1,0 +1,26 @@
+{
+  "name": "jirafy",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "atlassian-oauth2": "^0.2.3",
+    "axios": "^0.18.0",
+    "excel": "^1.0.0",
+    "fs": "0.0.1-security",
+    "oauth": "^0.9.15",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-dropzone": "^4.3.0",
+    "react-mini-router": "^2.2.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-simple-auth": "^1.0.0",
+    "superagent": "^3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
